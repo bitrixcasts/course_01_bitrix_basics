@@ -3,6 +3,7 @@ require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
 $APPLICATION->SetPageProperty("title", "Обжорозаврик - Приюти и покорми динозаврика");
 $APPLICATION->SetPageProperty("NOT_SHOW_NAV_CHAIN", "Y");
 $APPLICATION->SetTitle("Обжорозаврик - Приюти и покорми динозаврика");
+$APPLICATION->SetPageProperty('header_icon_color', '');
 ?>
 
 <section>
