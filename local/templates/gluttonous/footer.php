@@ -6,19 +6,20 @@ if (! defined('B_PROLOG_INCLUDED') || B_PROLOG_INCLUDED !== true) die();
     <div class="container text-center mb-4">
         <div class="row">
             <div class="col-md-4">
-                <a href="index.html" class="text-white">На главную</a>
+                <div><a href="index.html" class="text-white">На главную</a></div>
             </div>
             <div class="col-md-4">
-                <a href="faq.html" class="text-white">Вопросы и ответы</a>
+                <div><a href="about.html" class="text-white">О компании</a></div>
+                <div><a href="faq.html" class="text-white">Вопросы и ответы</a></div>
             </div>
             <div class="col-md-4">
-                <a href="catalog.html" class="text-white">Каталог</a>
+                <div><a href="catalog.html" class="text-white">Каталог</a></div>
             </div>
         </div>
     </div>
     <div class="container">
         <p class="m-0 text-center text-white">
-            Copyright &copy; Обжорозаврик 2020.
+            Copyright &copy; Обжорозаврик 2020-2023.
             Создано для проекта <a href="https://bitrixcasts.ru" rel="nofollow" target="_blank">BitrixCasts</a>.
             Автор <a href="https://mvsvolkov.ru" rel="nofollow" target="_blank">Волков Михаил</a> <i class="fas fa-heart text-danger"></i>
         </p>
